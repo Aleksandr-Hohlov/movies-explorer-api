@@ -6,7 +6,9 @@
 **Описание проекта:**
 
 - реализовано с использованием Express.js и mongoDB;
-- backend https://api.movies-Hohlov.nomoredomains.club
+- backend https://api.movies-Hohlov.nomoredomains.club;
+- реализована проверка данных на стороне сервера;
+- реализована регистрация и авторизация
 
 ---
 
