@@ -1,5 +1,5 @@
 
-**[Проект-backend: Кино исследователь](https://movies-hohlov.nomoredomains.rocks/signin)**
+**[Проект: backend Кино исследователь](https://movies-hohlov.nomoredomains.rocks/signin)**
 
 ---
 
